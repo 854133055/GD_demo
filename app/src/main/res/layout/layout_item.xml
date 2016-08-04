@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="8dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:paddingTop="3dp"
+        android:paddingBottom="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/iv_1"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_centerVertical="true"
+            android:src="#000000"/>
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:textSize="18dp"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/iv_1"
+            android:layout_marginLeft="5dp"
+            android:maxLines="1"
+            android:text="史上最通俗易用GreenDAO教程"/>
+
+        <TextView
+            android:id="@+id/tv_date"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="14:41"
+            android:gravity="center_horizontal"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"
+        android:text="哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈啊哈哈哈哈哈哈哈"/>
+
+
+
+</LinearLayout>
