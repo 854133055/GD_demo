@@ -5,9 +5,8 @@
 注：Greendao包里面是Greendao自动生成的内容（需要了解Greendao）
 
 效果：
-![打开后](https://github.com/854133055/GD_demo/blob/master/pic_1.png)
-![编辑内容](https://github.com/854133055/GD_demo/blob/master/pic_2.png)
-![添加到数据库](https://github.com/854133055/GD_demo/blob/master/pic_3.png)
+![效果图](https://github.com/854133055/GD_demo/blob/master/pic.png)
+
 
 
 
